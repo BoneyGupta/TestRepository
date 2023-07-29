@@ -11,7 +11,7 @@ import gl.assignment.springproject.model.Ticket;
 import gl.assignment.springproject.service.ReadService;
 
 @RestController
-@RequestMapping("/tickets/read")
+@RequestMapping("/readService")
 public class ReadController {
 	
 	@Autowired
